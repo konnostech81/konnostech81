@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Konstantinos</h1>
-<p>A passionate (wannabe) software engineer from Athens, Greece. </p>
+<p>A passionate software engineer from Athens, Greece. </p>
 <h2>🚀 Languages and Tools I Can Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
